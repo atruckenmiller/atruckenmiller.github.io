@@ -1,10 +1,10 @@
 .header {
-  text-align: right;
+  text-align: center;
 }
 
 body{
     font-family: Times New Roman;
-    font-size: 16px;
+    font-size: 20px;
     background-color: white;
     float: center;
     border: 1px solid black;
