@@ -16,5 +16,5 @@ body{
     font-size: 16px;
     background-color: lightblue;
     float: center;
-    border: 8px solid black;
+    border: 4px dotted black;
 }
