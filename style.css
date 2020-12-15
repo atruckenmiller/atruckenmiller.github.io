@@ -7,7 +7,7 @@
 
 h1 {
   color: white;
-  height: 50px;
+  height: 40px;
 }
 
 body{
@@ -19,5 +19,5 @@ body{
 }
 
 h2 {
-  color: green;
+  color: darkgreen;
 }
