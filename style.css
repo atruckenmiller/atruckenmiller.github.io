@@ -1,12 +1,6 @@
 .header {
   text-align: center;
-  background-color: gray;
-  padding: 30px 10px 20px 10px;
-}
-
-h1 {
-    color: white;
-    background-color: dark green;
+  background-color: #18f0c5;
 }
 
 body{
