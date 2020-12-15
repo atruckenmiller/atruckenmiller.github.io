@@ -1,9 +1,11 @@
 .header {
   text-align: center;
-  background-color: #18f0c5;
-  color: white;
+  background-color: gray;
   padding: 30px 10px 20px 10px;
 }
+h1 {
+    color: white;
+    background-color: dark green;
 
 body{
     font-family: Times New Roman;
@@ -11,5 +13,4 @@ body{
     background-color: lightblue;
     float: center;
     border: 1px solid black;
-    margin: 10% 20%;
 }
