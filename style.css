@@ -3,6 +3,11 @@
   background-color: #18f0c5;
 }
 
+h1 {
+  color: white;
+  height: 100px;
+}
+
 body{
     font-family: Times New Roman;
     font-size: 16px;
