@@ -1,13 +1,14 @@
 .header {
   text-align: center;
-  background-color: dark green;
+  background-color: #18f0c5;
   color: white;
+  padding: 30px 10px 20px 10px;
 }
 
 body{
     font-family: Times New Roman;
     font-size: 16px;
-    background-color: #18f0c5;
+    background-color: lightblue;
     float: center;
     border: 1px solid black;
     margin: 10% 20%;
