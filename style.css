@@ -1,6 +1,6 @@
 .header {
   text-align: center;
-  background-color: aqua;
+  background-color: #18f0c5;
 }
 
 body{
@@ -8,5 +8,5 @@ body{
     font-size: 16px;
     background-color: lightblue;
     float: center;
-    border: 1px solid black;
+    border: 1px dotted black;
 }
